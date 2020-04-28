@@ -1,8 +1,8 @@
-InjectExercise
+# InjectExercise功能：
 
 使用注解实现findviewbyid功能（FindView注解），并实现解析Intent的参数（Autowired注解）
 
-使用示例：
+# 使用示例：
 
         //使用Autowired注解 自动解析Intent参数
         @Autowired
